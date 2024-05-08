@@ -4,11 +4,10 @@
     <tr>
         <td valign="center">
 
-    🎓 I'm currently pursuing the following certifications: Security+, Linux Essentials, and AWS's Solutions Architect Associate.
-    🎯 My GOALS with using github are to store and share code while simultaneously becoming comprehensive in various programming
-        languages, including powerhouses such as Python, Javascript, and GO. 
-    🐦 Let's connect ! I post screenshots of recent projects and technologies I'm working with on twitter. 
-          ⬅️ Link is on the left hand side, @Rordan1 
+    🎓 ## I'm currently holding the following certifications: \ Security+, Pentest+, Linux Essentials, PCEP, AWS Solutions Architect Associate, AWS SysOps Administrator Associate, & Microsoft SC-900.
+    🎯 ## My GOALS with using Github: \ Are to showcase the projects and technologies I'm working with, and keep the templates and documentation for future use cases as well.
+    🐦 ## Let's connect! \ I post cybersecurity and cloud related articles on my website, Linkedin, and Twitter. 
+         # ⬅️ Links are on the left hand side.
    
              
              
